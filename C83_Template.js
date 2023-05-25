@@ -33,6 +33,6 @@ function update()
 
     var min_number = Math.min.apply(Math, age);
     console.log("The lowest age is: ", min_number);
+}
     console.log("- .... . ... . / .--. .. -.-. - ..- .-. . ... / .- .-. . / .... --- .-. .-. .. -... .-.. . -.-.--")
     console.log("- .... . .-. . / .- .-. . / -- --- .-. . / -- . -- -... . .-. ... / --- ..-. / -- -.-- / ..-. .- -- .. .-.. -.-- --..-- / .- ... / .-- . .-.. .-.. -.-.--")
-}
